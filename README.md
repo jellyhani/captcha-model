@@ -1,2 +1,2 @@
-# captcha-model-
+# captcha-model
 1
