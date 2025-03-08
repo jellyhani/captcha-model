@@ -260,7 +260,12 @@
           }
         ],
         "input_layers": [["input_layer", 0, 0]],
-        "output_layers": [["digit1", 0, 0], ["digit2", 0, 0], ["digit3", 0, 0], ["digit4", 0, 0]]
+        "output_layers": [
+          ["digit1", 0, 0],
+          ["digit2", 0, 0],
+          ["digit3", 0, 0],
+          ["digit4", 0, 0]
+        ]
       }
     },
     "training_config": {
