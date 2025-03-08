@@ -258,7 +258,6 @@
               ]
             ]
           }
-          // ... (나머지 레이어는 원래 파일과 동일)
         ],
         "input_layers": [["input_layer", 0, 0]],
         "output_layers": [["digit1", 0, 0], ["digit2", 0, 0], ["digit3", 0, 0], ["digit4", 0, 0]]
